@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-- 🌱 I’m currently learning **AI,ML**<br><br>- 👨‍💻 All of my projects are available at [https://justtryvns.netlify.app/](https://justtryvns.netlify.app/)<br><br>- 💬 Ask me about **C++,HTML,CSS,JavaScript**<br><br>- 📫 How to reach me **vibhuti82003@gmail.com**<br><br>- ⚡ Fun fact **Interested in CyberSecurity**
+- 🌱 I’m currently exploring **springboot**<br><br>- 👨‍💻 All of my projects are available at [https://justtryvns.netlify.app/](https://justtryvns.netlify.app/)<br><br>- 💬 Ask me about **DSA,MERN**<br><br>- 📫 How to reach me **vns8may90@gmail.com**<br><br>- ⚡ Fun fact about me  **Interested in CyberSecurity**
 
 
 ## 🌐 Socials:
