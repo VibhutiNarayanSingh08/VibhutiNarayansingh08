@@ -1,4 +1,8 @@
 ![logo](https://www.cs.cmu.edu/~cangiuli/img/programming.gif)
+
+![grid-snake](https://user-images.githubusercontent.com/94220731/198875879-db8010bf-01c8-4f34-98c7-3dd8a0a6e734.svg)
+
+
 # 💫 About Me:
 - 🌱 I’m currently learning **AI,ML**<br><br>- 👨‍💻 All of my projects are available at [https://justtryvns.netlify.app/](https://justtryvns.netlify.app/)<br><br>- 💬 Ask me about **C++,HTML,CSS,JavaScript**<br><br>- 📫 How to reach me **vibhuti82003@gmail.com**<br><br>- ⚡ Fun fact **Interested in CyberSecurity**
 
