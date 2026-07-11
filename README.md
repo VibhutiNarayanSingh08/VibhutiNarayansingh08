@@ -194,12 +194,8 @@ Exploring Android applications, reverse engineering, OSINT, and modern cybersecu
 
 # 🐍 Contribution Snake
 
-> **Enable the GitHub Action below to generate the animation automatically.**
-
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/vibhutinarayansingh08/vibhutinarayansingh08/output/github-contribution-grid-snake-dark.svg"/>
-
+  <img src="https://raw.githubusercontent.com/vibhutinarayansingh08/vibhutinarayansingh08/output/ocean.gif" alt="Snake Animation" />
 </p>
 
 ---
