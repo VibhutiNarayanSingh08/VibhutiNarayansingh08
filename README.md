@@ -195,7 +195,7 @@ Exploring Android applications, reverse engineering, OSINT, and modern cybersecu
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vibhutinarayansingh08/vibhutinarayansingh08/output/ocean.gif" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/VibhutiNarayanSingh08/VibhutiNarayansingh08/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
